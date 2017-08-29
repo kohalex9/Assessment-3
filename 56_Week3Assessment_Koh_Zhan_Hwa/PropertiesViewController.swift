@@ -13,7 +13,7 @@ class PropertiesViewController: UIViewController {
 
     var selectedOwner: Owner?
     var propertyBelongToSelectedOwner: [Property] = []
-    var navigationBackgroundNItemsColor: UIColor = UIColor.blue
+    var navigationBackgroundNItemsColor: UIColor?
     
     @IBOutlet weak var tableView: UITableView!
     

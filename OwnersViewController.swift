@@ -12,7 +12,7 @@ import CoreData
 class OwnersViewController: UIViewController {
 
     var owners: [Owner] = []
-    var navigationBackgroundNItemsColor: UIColor = UIColor.blue
+    var navigationBackgroundNItemsColor: UIColor?
     
     @IBOutlet weak var tableView: UITableView!
     

@@ -14,7 +14,7 @@ class PropertyDetailsViewController: UIViewController {
     var selectedOwner: Owner?
     var selectedPropertyFromPreviosVC: Property?
     var isAddBtnFromPropertiesVCTapped: Bool?
-    var navigationBackgroundNItemsColor: UIColor = UIColor.blue
+    var navigationBackgroundNItemsColor: UIColor?
     
     @IBOutlet weak var propertyNameTextField: UITextField!
     @IBOutlet weak var propertyPriceTextField: UITextField!
@@ -95,7 +95,7 @@ class PropertyDetailsViewController: UIViewController {
     func setupDoneBarItem() {
         let done = UIBarButtonItem(barButtonSystemItem: .done, target: self, action: #selector(doneBtnTapped))
         
-        if navigationBackgroundNItemsColor != UIColor.white {
+        if navigationBackgroundNItemsColor != nil {
             done.tintColor = UIColor.white
         }
         
