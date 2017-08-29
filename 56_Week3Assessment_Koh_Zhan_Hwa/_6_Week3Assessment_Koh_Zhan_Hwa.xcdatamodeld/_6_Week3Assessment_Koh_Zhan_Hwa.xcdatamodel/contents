@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Owner" representedClassName="Owner" syncable="YES" codeGenerationType="class">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hasProperty" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Property" inverseName="isOwnedBy" inverseEntity="Property" syncable="YES"/>
+    </entity>
+    <entity name="Property" representedClassName="Property" syncable="YES" codeGenerationType="class">
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="isOwnedBy" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Owner" inverseName="hasProperty" inverseEntity="Owner" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Owner" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="Property" positionX="-360" positionY="-51" width="128" height="103"/>
+    </elements>
+</model>

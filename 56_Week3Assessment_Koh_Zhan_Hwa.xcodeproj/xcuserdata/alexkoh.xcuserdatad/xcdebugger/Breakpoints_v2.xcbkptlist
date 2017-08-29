@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525684117.424072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525684117.424072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertiesViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "extractDataFromTextFields(isAddBtnTapped:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+            timestampString = "525684117.424072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "PropertyDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController.propertyNameTextField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+                  timestampString = "525682758.962538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController.propertyNameTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+                  timestampString = "525682758.964546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; _6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+                  timestampString = "525682758.966477"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;_6_Week3Assessment_Koh_Zhan_Hwa.PropertyDetailsViewController&gt;"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+                  timestampString = "525682758.968349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "56_Week3Assessment_Koh_Zhan_Hwa/PropertyDetailsViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "doneBtnTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OwnersViewController.swift"
+            timestampString = "525687605.160355"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "colorBtnTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_6_Week3Assessment_Koh_Zhan_Hwa.OwnersViewController.colorBtnTapped (Any) -&gt; ()"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/OwnersViewController.swift"
+                  timestampString = "525682758.984642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "442">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[1] = Value Promoted from Box&gt; of _6_Week3Assessment_Koh_Zhan_Hwa.OwnersViewController.(colorBtnTapped (Any) -&gt; ()).(closure #1)"
+                  moduleName = "56_Week3Assessment_Koh_Zhan_Hwa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexkoh/Desktop/iOS%20projectFile%20NEXT%20/56_Week3Assessment_Koh_Zhan_Hwa/OwnersViewController.swift"
+                  timestampString = "525682758.986565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
